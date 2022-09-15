@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Language-Setting-React-App/static/css/main.5950ec86.css",
+    "main.js": "/Language-Setting-React-App/static/js/main.98d3ac0f.js",
+    "static/js/787.55e54cd9.chunk.js": "/Language-Setting-React-App/static/js/787.55e54cd9.chunk.js",
+    "index.html": "/Language-Setting-React-App/index.html",
+    "main.5950ec86.css.map": "/Language-Setting-React-App/static/css/main.5950ec86.css.map",
+    "main.98d3ac0f.js.map": "/Language-Setting-React-App/static/js/main.98d3ac0f.js.map",
+    "787.55e54cd9.chunk.js.map": "/Language-Setting-React-App/static/js/787.55e54cd9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5950ec86.css",
+    "static/js/main.98d3ac0f.js"
+  ]
+}
